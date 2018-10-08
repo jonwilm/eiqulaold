@@ -1,0 +1,134 @@
+/*	Color Azul: #037;
+	Color Gris: #CCC;*/
+@font-face{
+    font-family: "roboto";
+    src: url(../fonts/font/Roboto.eot);
+}
+@font-face{
+    font-family: "roboto";
+    src: url(../fonts/font/Roboto.ttf) format("truetype"), url(../fonts/font/Roboto.woff) format("woff"), url(../fonts/font/Roboto.ttf) format("woff2");
+}
+body{
+	position: relative;
+	font-family:"roboto", sans-serif, serif;
+	color: #CCC;
+	padding-top: 50px;
+	background: #037;
+}
+.bg-gris{
+	background-color: #CCC;
+}
+.bg-azul{
+	background-color: #037;
+}
+.no-margin{
+	margin: 0;
+}
+.no-padding{
+	padding: 0;
+}
+.social{
+	margin: 18px 10px;
+	color: #CCC;
+}
+/* -- BOTON DEFAULT -- */
+.btn-gris{
+	color: #037;
+	background: #CCC;
+	border-color: #037;
+}
+/* -- BOTON PRIMARY -- */
+.btn-azul{
+	color: #CCC;
+	background: #037;
+	border-color: #CCC;
+}
+/* -- HEADER -- */
+.navbar-iq{
+	margin-bottom: 0;
+	border-color: #CCC;
+	font-style: italic;
+	font-weight: bold;
+}
+/* -- MENU -- */
+.navbar-inverse-iq .navbar-nav-iq > li > a{
+    color: #CCC;
+}
+.navbar-inverse-iq .navbar-nav-iq > li > a:hover{
+    background: #CCC;
+	color: #037;
+}
+.navbar-inverse-iq{
+	background-color: #037;
+}
+.navbar-inverse-iq .navbar-nav-iq > .open > a, .navbar-inverse-iq .navbar-nav-iq > .open > a:focus, .navbar-inverse-iq .navbar-nav-iq > .open > a:hover{
+    color: #037;
+    background-color: #CCC;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #CCC;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #CCC;
+}
+.dropdown-menu-iq{
+	background: #037;
+}
+.dropdown-menu-iq > li > a{
+	background: #037;
+	color: #CCC;
+	font-weight: bold;
+}
+.dropdown-menu-iq > li > a:hover{
+	background: #CCC;
+	color: #037;
+}
+/* -- JUMBOTRON -- */
+.jumbotron-iq{
+	background: #037;
+}
+/* -- CONTENIDO -- */
+.contenido{
+	background: #CCC;
+	color: #037;
+	padding-bottom: 1%;
+}
+/* -- SLIDESHOW -- */
+.captionslide{
+    background:#037;
+    right:0;
+    bottom:0;
+    left:0;
+    text-align:left;
+    text-shadow:2px 2px 2px #000;
+    padding-left:1%;
+}
+/* -- PANELES -- */
+.img-perfil{
+	width: 80%;
+}
+.panel-azul > .panel-heading{
+	color:#CCC;
+	background: #037;
+	border-color: #037;
+}
+.panel-gris > .panel-heading{
+	color:#037;
+	background: #CCC;
+	border-color: #037;
+}
+/* -- TRANSPARENCIA --*/
+.opacity{
+	opacity: 0.5;
+}
+/* -- PIE DE PAGINA -- */
+.text-footer{
+	margin: 0;
+}
+.pie{
+	margin-top: 2px;
+	width:100%;
+	padding:10px;
+	border-top:#CCC solid 1px;
+	border-bottom:#CCC solid 1px;
+}
