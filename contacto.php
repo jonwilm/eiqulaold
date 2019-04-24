@@ -23,10 +23,10 @@
             <div class="row" style="border:1px solid white; margin:1%; padding:1%;">
                 <div class="col-xs-12">
                     <p class="subtitulo text-center text-footer"><strong><em>Dirección de la Escuela de Ingeniería Química</em></strong></p>
-                    <p class="text-center text-footer"><strong>Prof. Edinzo Iglesias</strong></p>
+                    <p class="text-center text-footer"><strong>Profa. Glenda Noboa</strong></p>
                     <p class="text-center text-footer"><em>Director</em></p>
                     <p class="text-center text-footer"><em>Telf.: +58 0274 - 2402950</em></p>
-                    <p class="text-center text-footer"><em>E-mail: <a href="mailto:iedinzo@ula.ve">iedinzo@ula.ve</a></em></p>
+                    <p class="text-center text-footer"><em>E-mail: <a href="mailto:glenda@ula.ve">glenda@ula.ve</a></em></p>
                     <br>
                     <p class="subtitulo text-center text-footer">Secretaria de la Dirección de la Escuela de Ingeniería Química</p>
                     <p class="text-center text-footer"><strong>Sra. Belinda Olteanu</strong></p>
