@@ -39,10 +39,10 @@
                 <div class="col-xs-12 col-lg-6">
                     <p class="subtitulo text-center text-footer"><strong><em>Departamento de</em></strong></p>
                     <p class="subtitulo text-center text-footer"><strong><em>Química Industrial y Aplicada</em></strong></p>
-                    <p class="text-center text-footer"><strong>Profa. María Soledad Ortiz</strong></p>
+                    <p class="text-center text-footer"><strong>Prof. Ronald Márquez</strong></p>
                     <p class="text-center text-footer"><em>Jefe de Departamento</em></p>
                     <p class="text-center text-footer"><em>Telf.: +58 0274 - 2402915</em></p>
-                    <p class="text-center text-footer"><em>E-mail: <a href="mailto:mariaortiz@ula.ve">mariaortiz@ula.ve</a></em></p>
+                    <p class="text-center text-footer"><em>E-mail: <a href="mailto:marquezronald.ula.ve@gmail.com">marquezronald.ula.ve@gmail.com</a></em></p>
                     <br>
                     <p class="text-center text-footer"><strong>T.S.U. y Abg. María Sanchez</strong></p>
                     <p class="text-center text-footer"><em>Administrador General de Tecnología de</em></p>
@@ -53,10 +53,10 @@
                 <div class="col-xs-12 col-lg-6">
                     <p class="subtitulo text-center text-footer"><strong><em>Departamento de</em></strong></p>
                     <p class="subtitulo text-center text-footer"><strong><em>Operaciones Unitarias y Proyectos</em></strong></p>
-                    <p class="text-center text-footer"><strong>Prof. Yohn García</strong></p>
+                    <p class="text-center text-footer"><strong>Profa. Luisa Duran</strong></p>
                     <p class="text-center text-footer"><em>Jefe de Departamento</em></p>
                     <p class="text-center text-footer"><em>Telf.: +58 0274 - 2402961</em></p>
-                    <p class="text-center text-footer"><em>E-mail: <a href="mailto:yohn@ula.ve">yohn@ula.ve</a></em></p>
+                    <p class="text-center text-footer"><em>E-mail: <a href="mailto:luisae@ula.ve">luisae@ula.ve</a></em></p>
                     <br>
                     <p class="text-center text-footer"><strong>Br. Sec. Yajaira Mercado</strong></p>
                     <p class="text-center text-footer"><em>Secretaria Ejecutiva</em></p>

@@ -4,7 +4,7 @@
         <!-- Contenido -->
         <div class="contenido col-xs-12 col-sm-12 col-md-8 col-lg-9">
             <div class="page-header">
-                <h1 class="titulo text-center"><strong><em>COMISIÓN DE PROYECTO DE GRADO<br>Prof. María S. Ortiz P.<br>Coordinadora</em></strong></h1>
+                <h1 class="titulo text-center"><strong><em>COMISIÓN DE PROYECTO DE GRADO<br>Prof. Ronald Jesús Márquez Contreras<br>Coordinadora</em></strong></h1>
             </div>
             <div class="row" style="border:1px solid white; margin:1%; padding:1%;">
                 <div class="col-xs-12">
